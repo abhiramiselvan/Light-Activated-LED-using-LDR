@@ -56,4 +56,4 @@ void loop() {
 Now I have design the circuit to work as the second type.
 LED light will be on when the external light is off and LED light will be off when the external light is on.
 
-
+https://github.com/abhiramiselvan/Light-Activated-LED-using-LDR/assets/144225835/6fac4993-1b60-4a06-8868-3bf783298331
