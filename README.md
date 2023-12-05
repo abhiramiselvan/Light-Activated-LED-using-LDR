@@ -12,6 +12,7 @@
 - If we connect the resistance and LDR like the below then this is the working principle.
 - Intensity of light is increased and turn on the light [Resistance will decreases and current is flow through the circuit].
 - Intensity of light is decreased and turn off the light [Resistance will increase and current flow of circuit will reduce].
+![circuit](https://github.com/abhiramiselvan/Light-Activated-LED-using-LDR/assets/144225835/de29d895-9edf-4d31-9359-5a3eb552d86c)
 
 ### Type - 2
 - If we connect the resistance and LDR alternatively then the working principle.
