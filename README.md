@@ -18,7 +18,7 @@
 - Intensity of light is increased and turn on the light [Resistance will decreases and current is flow through the circuit].
 - Intensity of light is decreased and turn off the light [Resistance will increase and current flow of circuit will reduce].
 
-
+![circuit (1)](https://github.com/abhiramiselvan/Light-Activated-LED-using-LDR/assets/144225835/a64dcb47-5e85-46af-918b-46bcfdb551f0)
 
 
 
