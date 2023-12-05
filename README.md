@@ -27,7 +27,7 @@
 
 ## Arduino Code:
 
-base```
+```base
 const ledPin = 13;
 const ldrPin = A0;
 
